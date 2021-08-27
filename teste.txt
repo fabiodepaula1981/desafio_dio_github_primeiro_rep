@@ -1,0 +1,3 @@
+#!/bin/bash
+
+Arquivo de teste para realizar o push no Git.
